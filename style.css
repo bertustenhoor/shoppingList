@@ -1,0 +1,16 @@
+html,body {
+    font-family: Verdana, sans-serif;
+}
+
+.listItem {
+    display: flex;
+    width: 50%;
+}
+
+li>button {
+    margin-left: auto;
+}
+
+.done {
+    text-decoration: line-through;
+}
